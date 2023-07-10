@@ -4,7 +4,7 @@ Hi 👋 My name is Hugo Nicolas Aguilera
 Web Full Stack Developer
 ------------------------
 
-I am an Genetics Engineer Student and Full Stack Developer. I´ve been learning programming in a self-taught way for an year until I entered a Web Full Stack development Bootcamp: I realized that coding is my passion.
+Hi, I am a full stack developer. I've been self-taught programming for a year until I entered a Full Stack Web Development Bootcamp.
 
 * 🌍  I'm based in Buenos Aires, Argentina.
 * ✉️  You can contact me at [aguileranicolas.dev@gmail.com](mailto:aguileranicolas.dev@gmail.com)
